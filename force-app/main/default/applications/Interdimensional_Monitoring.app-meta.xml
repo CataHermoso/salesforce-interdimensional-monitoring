@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#7CFC00</headerColor>
+        <logo>X5455f5246e894fb29fee7bd4aaed0c09</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <description>Monitor the multiverse. Track interdimensional entities, investigate sightings, analyze threats, and use AI-assisted intelligence to uncover anomalies across dimensions.</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>Interdimensional Monitoring</label>
+    <navType>Standard</navType>
+    <tabs>Character__c</tabs>
+    <tabs>Location__c</tabs>
+    <tabs>Sighting__c</tabs>
+    <tabs>Investigation__c</tabs>
+    <tabs>Evidence__c</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Interdimensional_Monitoring_UtilityBar</utilityBar>
+</CustomApplication>
